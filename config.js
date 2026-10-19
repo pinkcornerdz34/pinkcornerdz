@@ -7,7 +7,7 @@
      (When the catalogue loads, the details set in Code.gs are used instead.)
 */
 window.SITE = {
-  catalogUrl: 'PASTE_YOUR_CATALOGUE_LINK_HERE',
+  catalogUrl: 'https://script.google.com/macros/s/AKfycb…/exec?api=catalog',
   fallback: {
     name: 'Pink Corner DZ',
     slogan: 'Pink Corner DZ | Luxury Lingerie',
